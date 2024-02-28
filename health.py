@@ -35,14 +35,21 @@ def input_image_setup(uploaded_file):
         raise FileNotFoundError("No file uploaded")
     
 ##initialize our streamlit app
+st.set_page_config(page_title=" MACHIne AI-  jk ")
+import matplotlib.pyplot as plt
 
-from colorama import Fore, Style
+# Define your page title with color using ANSI escape codes (assuming terminal output)
+colored_title = "\033[1;34m MACHIne AI- jk \033[0m"  # Change "34" to desired color code
 
-# Define your heading text
-heading = "This is your heading"
+# Create a matplotlib figure and set the title with the colored text
+plt.figure()
+plt.title(colored_title)
 
-# Print the heading in red and bold
-print(Fore.RED + Style.BOLD + heading + Style.RESET_ALL)
+# Add any other plot elements or data as needed
+# ...
+
+# Display the plot
+plt.show()
 
 st.header("MACHIne AI-  jk")
 input=st.text_input("Input Prompt: ",key="input")
