@@ -36,7 +36,7 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(page_title=" MACHIne AI-  jk ")
+st.set_page_config(FORGE.RED ,page_title=" MACHIne AI-  jk ")
 
 st.header("MACHIne AI-  jk")
 input=st.text_input("Input Prompt: ",key="input")
