@@ -56,6 +56,8 @@ give real life application , about it and say how it is evolved
 
 
 output should be like the below mentioned thing 
+
+                  FONT SHOULD TIMES NEW ROMAN 
                   
                   the identified name of the machine ( itshould be bold bigger in text in old london font it should be bigger than other text this is title)
                   
@@ -63,19 +65,20 @@ output should be like the below mentioned thing
                   
                   explain about its parts in seperatley with minimuym 200 words
 
-                  then  say its real life application , where it is usedin bulletin points minimum 18 points or application
-                  
-                  say how that identified machine works 
+            
+                  say how that identified machine works (470 WORDS)
                   
                   how the identified machine is made ( minimum350 word)
                   
-                  how the identified machine has evolved 
+                  how the identified machine has evolved (350 WORDS)
+                
+                 then  say its real life application , where it is usedin bulletin points minimum 18 points or application
                   
-                  who invented the machine
+                  who invented the machine (300 WORDS)
                   
-                  who manufactured that ,machine
+                  who manufactured that ,machine (375 WORDS)
                   
-                  say about that manufacturing company
+                  say about that manufacturing company, THEIR AIM ETC ( 450 WORDS)
                   
                   
        the above given shouldbe made properly , with good english .
