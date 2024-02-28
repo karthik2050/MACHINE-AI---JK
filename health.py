@@ -36,20 +36,7 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 st.set_page_config(page_title=" MACHIne AI-  jk ")
-import matplotlib.pyplot as plt
 
-# Define your page title with color using ANSI escape codes (assuming terminal output)
-colored_title = "\033[1;34m MACHIne AI- jk \033[0m"  # Change "34" to desired color code
-
-# Create a matplotlib figure and set the title with the colored text
-plt.figure()
-plt.title(colored_title)
-
-# Add any other plot elements or data as needed
-# ...
-
-# Display the plot
-plt.show()
 
 st.header("MACHIne AI-  jk")
 input=st.text_input("Input Prompt: ",key="input")
