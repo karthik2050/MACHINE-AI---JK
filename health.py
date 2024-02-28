@@ -36,7 +36,13 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(FORGE.RED ,page_title=" MACHIne AI-  jk ")
+from colorama import Fore, Style
+
+# Define your heading text
+heading = "This is your heading"
+
+# Print the heading in red and bold
+print(Fore.RED + Style.BOLD + heading + Style.RESET_ALL)
 
 st.header("MACHIne AI-  jk")
 input=st.text_input("Input Prompt: ",key="input")
